@@ -569,7 +569,8 @@ $ComfL: 'ComfL';
 					font-family: $ComfB;
 					font-size: 16px;
 					color: white;
-					padding: 20px 58px 20px 58px;
+					padding-top: 20px;
+					text-align: center;
 				}
 				&:hover{
 					cursor: pointer;
